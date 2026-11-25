@@ -1,0 +1,1 @@
+The code for Chapter 1 is adapted from Alice Huang's original code (https://github.com/alicecwhuang/track-record) for her paper "Track Records: A Cautionary Tale" (The British Journal for the Philosophy of Science, 2023, https://doi.org/10.1086/728459). I modified it to add my alternative models and to improve performance and clarity.
